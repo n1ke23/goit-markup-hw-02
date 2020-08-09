@@ -110,10 +110,12 @@ ul {
   letter-spacing: 0.03em;
   text-transform: capitalize;
   color: var(--heading-text-color);
+  background: var(--interactive-text-color);
 }
 .radio-button:hover,
 .radio-button:focus {
-  color: var(--active-text-color);
+  color: var(--interactive-text-color);
+  background: var(--active-text-color);
 }
 
 /* оссобенности */
