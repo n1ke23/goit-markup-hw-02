@@ -278,4 +278,5 @@ footer {
   line-height: 1.56;
   letter-spacing: 0.03em;
   color: var(--interactive-text-color);
+  background: var(--active-text-color); /* на время*/
 }
